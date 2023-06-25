@@ -1,0 +1,20 @@
+/* RESPONSIVENESS */
+@media (max-width: 767px) {
+    /* body {
+        background-color: aliceblue;
+    } */
+
+    .nav-bar, 
+    .right-btn {
+        display: none;
+    }
+
+    .toggle-btn {
+        display: block;
+    }
+
+    .toggle-btn i {
+        font-size: 2rem;
+        color: brown;
+    }
+}
